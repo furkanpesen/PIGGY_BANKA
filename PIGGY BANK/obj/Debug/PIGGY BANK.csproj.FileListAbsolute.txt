@@ -1,0 +1,10 @@
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY_BANK.Form1.resources
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY_BANK.Properties.Resources.resources
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY BANK.csproj.GenerateResource.cache
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY BANK.csproj.CoreCompileInputs.cache
+C:\Users\fpesen\source\repos\PIGGY BANK\bin\Debug\PIGGY BANK.exe.config
+C:\Users\fpesen\source\repos\PIGGY BANK\bin\Debug\PIGGY BANK.exe
+C:\Users\fpesen\source\repos\PIGGY BANK\bin\Debug\PIGGY BANK.pdb
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY BANK.exe
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY BANK.pdb
+C:\Users\fpesen\source\repos\PIGGY BANK\obj\Debug\PIGGY BANK.csprojResolveAssemblyReference.cache
